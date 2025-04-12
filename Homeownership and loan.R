@@ -1,6 +1,6 @@
 Activity 2: Homeownership and loan
 
-#Minh
+#Minh, Ethan, Nick
 
 library(readr)
 library(ggplot2)
